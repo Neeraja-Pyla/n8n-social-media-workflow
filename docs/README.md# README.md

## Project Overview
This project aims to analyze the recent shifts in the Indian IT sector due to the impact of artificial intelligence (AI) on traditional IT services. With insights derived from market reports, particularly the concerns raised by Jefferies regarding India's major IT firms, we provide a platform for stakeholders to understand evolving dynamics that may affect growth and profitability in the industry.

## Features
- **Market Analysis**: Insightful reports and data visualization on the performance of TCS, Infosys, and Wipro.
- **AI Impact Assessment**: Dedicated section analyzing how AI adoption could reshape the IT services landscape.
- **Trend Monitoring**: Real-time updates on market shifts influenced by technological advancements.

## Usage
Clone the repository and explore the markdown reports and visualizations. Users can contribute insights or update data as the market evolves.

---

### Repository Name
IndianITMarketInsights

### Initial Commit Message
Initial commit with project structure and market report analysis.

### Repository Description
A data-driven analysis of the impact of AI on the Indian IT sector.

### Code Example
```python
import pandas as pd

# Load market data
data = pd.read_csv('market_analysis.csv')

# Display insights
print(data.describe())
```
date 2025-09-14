@@ -1,0 +1,34 @@
+# README.md
+
+## Project Overview
+This project aims to analyze the recent shifts in the Indian IT sector due to the impact of artificial intelligence (AI) on traditional IT services. With insights derived from market reports, particularly the concerns raised by Jefferies regarding India's major IT firms, we provide a platform for stakeholders to understand evolving dynamics that may affect growth and profitability in the industry.
+
+## Features
+- **Market Analysis**: Insightful reports and data visualization on the performance of TCS, Infosys, and Wipro.
+- **AI Impact Assessment**: Dedicated section analyzing how AI adoption could reshape the IT services landscape.
+- **Trend Monitoring**: Real-time updates on market shifts influenced by technological advancements.
+
+## Usage
+Clone the repository and explore the markdown reports and visualizations. Users can contribute insights or update data as the market evolves.
+
+---
+
+### Repository Name
+IndianITMarketInsights
+
+### Initial Commit Message
+Initial commit with project structure and market report analysis.
+
+### Repository Description
+A data-driven analysis of the impact of AI on the Indian IT sector.
+
+### Code Example
+```python
+import pandas as pd
+
+# Load market data
+data = pd.read_csv('market_analysis.csv')
+
+# Display insights
+print(data.describe())
+```
