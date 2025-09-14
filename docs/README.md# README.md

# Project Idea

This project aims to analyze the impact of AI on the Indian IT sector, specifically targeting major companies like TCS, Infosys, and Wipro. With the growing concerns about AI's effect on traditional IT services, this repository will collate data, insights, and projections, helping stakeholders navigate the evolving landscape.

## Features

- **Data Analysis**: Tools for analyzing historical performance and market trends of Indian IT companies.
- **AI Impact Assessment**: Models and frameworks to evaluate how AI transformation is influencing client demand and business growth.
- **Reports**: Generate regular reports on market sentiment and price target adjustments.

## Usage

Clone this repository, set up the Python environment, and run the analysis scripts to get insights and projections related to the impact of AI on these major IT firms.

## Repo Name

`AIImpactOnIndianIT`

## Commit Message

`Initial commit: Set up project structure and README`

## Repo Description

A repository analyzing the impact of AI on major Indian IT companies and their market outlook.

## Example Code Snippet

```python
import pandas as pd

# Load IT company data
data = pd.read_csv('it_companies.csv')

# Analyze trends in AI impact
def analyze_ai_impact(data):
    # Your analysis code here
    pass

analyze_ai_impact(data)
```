@@ -1,0 +1,43 @@
+# README.md
+
+# Project Idea
+
+This project aims to analyze the impact of AI on the Indian IT sector, specifically targeting major companies like TCS, Infosys, and Wipro. With the growing concerns about AI's effect on traditional IT services, this repository will collate data, insights, and projections, helping stakeholders navigate the evolving landscape.
+
+## Features
+
+- **Data Analysis**: Tools for analyzing historical performance and market trends of Indian IT companies.
+- **AI Impact Assessment**: Models and frameworks to evaluate how AI transformation is influencing client demand and business growth.
+- **Reports**: Generate regular reports on market sentiment and price target adjustments.
+
+## Usage
+
+Clone this repository, set up the Python environment, and run the analysis scripts to get insights and projections related to the impact of AI on these major IT firms.
+
+## Repo Name
+
+`AIImpactOnIndianIT`
+
+## Commit Message
+
+`Initial commit: Set up project structure and README`
+
+## Repo Description
+
+A repository analyzing the impact of AI on major Indian IT companies and their market outlook.
+
+## Example Code Snippet
+
+```python
+import pandas as pd
+
+# Load IT company data
+data = pd.read_csv('it_companies.csv')
+
+# Analyze trends in AI impact
+def analyze_ai_impact(data):
+    # Your analysis code here
+    pass
+
+analyze_ai_impact(data)
+```
